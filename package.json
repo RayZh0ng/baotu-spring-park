@@ -1,0 +1,22 @@
+{
+  "name": "baotu-spring-park",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "可游览的 3D 趵突泉公园 · 互动天气系统",
+  "scripts": {
+    "dev": "vite --port 5174",
+    "build": "vite build",
+    "preview": "vite preview --port 5175",
+    "shot": "node scripts/shot.mjs"
+  },
+  "dependencies": {
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "three": "^0.186.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.1.2",
+    "vite": "^8.3.4"
+  }
+}
