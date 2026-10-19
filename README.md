@@ -9,6 +9,9 @@
 
 ![趵突泉 · 晴](preview/desktop-hero.jpg)
 
+**在线游览**：https://rayzh0ng.github.io/baotu-spring-park/
+（GitHub Pages，推送 `main` 自动部署）
+
 ---
 
 ## 快速开始
